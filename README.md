@@ -1,4 +1,5 @@
 # Yapılanlar
+- Rest mimarisi kullanıldı
 - Dependency Injection kullanıldı(IStudentService,StudentService)
 - Entity Framework kullanıldı (RelationsController hariç)
 - Dapper kullanıldı (RelationsController)
